@@ -1,4 +1,4 @@
-package comparablecomparator;
+package comparablecomparator.bsp1;
 
 import java.util.Arrays;
 public class EmployeeDemo {
